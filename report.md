@@ -1,0 +1,3 @@
+# Lab 01 Reflection
+
+During this lab, I learned how to create and manage files using Git. I practiced adding HTML files and making changes, committing them, and pushing them to GitHub. I also got hands-on experience with branches by creating an experimental branch, making changes, and merging it into the main branch. This helped me understand how Git tracks file additions, modifications, and deletions. Overall, it was a good introduction to version control and collaborative workflows.
